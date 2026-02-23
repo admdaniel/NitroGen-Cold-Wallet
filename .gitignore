@@ -1,0 +1,13 @@
+# Dependências e Builds
+node_modules/
+dist/
+sea-prep.blob
+sea-config.json
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar o executável local (ele deve ser subido via Release ou zip)
+# NitroGEN
